@@ -8,4 +8,4 @@ En mi caso he usado el plugin advanced custom field y al final he deshabilitado 
 
 1. Añade el código que esta en el functions.php en tu `functions.php` de tu tema activo.
 2. Crear tu custom field.
-3. Añade el código que esta en el single.php en tu `single.php`
+3. Añade el código que esta en el single.php en tu `single.php` que se encargará de procesar la lógica.
